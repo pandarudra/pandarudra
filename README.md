@@ -1,6 +1,6 @@
 ### Hi there 👋
-![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
-**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white):rudra_826
+<!--**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
