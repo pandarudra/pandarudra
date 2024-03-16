@@ -1,6 +1,6 @@
 ###<h1> Hi there 👋<br>This is Rudramadhab Panda , A IT student of Odisha University Of Technology And Research</h1>
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)<h2>CN Username:rudra_826</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact)
 <!--**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
