@@ -1,4 +1,4 @@
-### Hi there 👋
+###<h1> Hi there 👋<br>This is Rudramadhab Panda a IT student of Odisha University Of Technology And Research</h1>
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white):rudra_826
 <!--**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
