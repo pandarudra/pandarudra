@@ -1,9 +1,9 @@
-<!--###<h1> Hi there 👋<br>This is Rudramadhab Panda , An IT student of Odisha University Of Technology And Research</h1>
+<h1> Hi there 👋<br>This is Rudramadhab Panda , An IT student of Odisha University Of Technology And Research</h1>
 <a href="https://www.codingninjas.com/studio/profile/rudra_826" target="blank">![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)<h2>CN Studio Username:rudra_826</h2></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact)-->
-<!--**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact)
+<!--**pandarudra/pandarudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rudra</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
