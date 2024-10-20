@@ -39,3 +39,9 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/rudra-panda-a45487229/)
 - [GitHub](https://github.com/pandarudra)
+
+!GitHub Stats
+
+!GitHub Activity Graph
+!GitHub Profile Summary Cards
+
