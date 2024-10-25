@@ -26,7 +26,8 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 
 ### 🗄️ Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-
+### Open Source
+[![An image of @pandarudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pandarudra)](https://holopin.io/@pandarudra)
 
 ## 📊 GitHub Stats:
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandarudra&show_icons=true&theme=radical)
