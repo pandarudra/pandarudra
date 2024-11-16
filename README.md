@@ -2,8 +2,6 @@
 I'm a passionate developer skilled in MERN stack and React Native, working on exciting projects like a real-time chat app and an AI-powered employment platform.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **a chat app and a comprehensive employment platform**.
-- 🌱 I’m learning **React Native** and **Socket.IO**.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 Reach me at [rudrapanda8206@gmail.com](mailto:rudrapanda8206@gmail.com).
 
