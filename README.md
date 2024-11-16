@@ -29,7 +29,7 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 
 ## 📊 GitHub Stats:
 [![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandarudra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact&theme=dark)
 
 
 ## 💼 Projects:
