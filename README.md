@@ -28,7 +28,8 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 [![An image of @pandarudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pandarudra)](https://holopin.io/@pandarudra)
 
 ## 📊 GitHub Stats:
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandarudra&show_icons=true&theme=radical)
+
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandarudra&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandarudra&layout=compact&theme=radical)
 
 ## 💼 Projects:
