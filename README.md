@@ -33,7 +33,7 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 
 
 ## 💼 Projects:
-- [PeerConnect]([https://github.com/pandarudra/sysspeaker](https://github.com/pandarudra/PeerConnect-Frontend) - A 1 - 1 free video chat website
+- [PeerConnect](https://github.com/pandarudra/PeerConnect-Frontend) - A 1 - 1 free video chat website
 - [Cookts](https://github.com/pandarudra/cookts) - A tool to run TS node js server seemlesslylike nodemon for js
 
 ## 🌐 Connect with me:
