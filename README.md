@@ -33,8 +33,8 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 
 
 ## 💼 Projects:
-- [SHOPKART](https://github.com/pandarudra/shopkart) - An eCommerce website built with MERN stack.
-- [Sysspeaker](https://github.com/pandarudra/sysspeaker) - A Python package for text-to-speech conversion.
+- [PeerConnect]([https://github.com/pandarudra/sysspeaker](https://github.com/pandarudra/PeerConnect-Frontend)) - A 1 - 1 free video chat website
+- [Cookts](https://github.com/pandarudra/cookts) - A tool to run TS node js server seemlesslylike nodemon for js
 
 ## 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/rudra-panda-a45487229/)
