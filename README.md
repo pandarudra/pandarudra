@@ -32,6 +32,7 @@
 
 
 ## 💼 Projects:
+- [MxDoc](https://github.com/pandarudra/MxDoc) - A real time document collab plartform 
 - [PeerConnect](https://github.com/pandarudra/PeerConnect-Frontend) - A 1 - 1 free video chat website
 - [Cookts](https://github.com/pandarudra/cookts) - A tool to run TS node js server seemlesslylike nodemon for js
 
