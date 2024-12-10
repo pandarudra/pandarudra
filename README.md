@@ -1,6 +1,5 @@
 # Hi, I'm Rudramadhab Panda 👋
-I'm a passionate developer skilled in MERN stack and React Native, working on exciting projects like a real-time chat app and an AI-powered employment platform.
-
+![](https://komarev.com/ghpvc/?username=pandarudra)
 ## 🚀 About Me
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 Reach me at [rudrapanda8206@gmail.com](mailto:rudrapanda8206@gmail.com).
@@ -24,7 +23,7 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 
 ### 🗄️ Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-### Open Source
+###  Open Source:
 [![An image of @pandarudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pandarudra)](https://holopin.io/@pandarudra)
 
 ## 📊 GitHub Stats:
@@ -37,7 +36,9 @@ I'm a passionate developer skilled in MERN stack and React Native, working on ex
 - [Cookts](https://github.com/pandarudra/cookts) - A tool to run TS node js server seemlesslylike nodemon for js
 
 ## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/rudra-panda-a45487229/)
-- [GitHub](https://github.com/pandarudra)
-
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-panda-a45487229/)
+- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/rudra_826)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
 
